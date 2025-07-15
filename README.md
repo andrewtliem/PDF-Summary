@@ -2,6 +2,10 @@
 
 A powerful macOS application that automatically processes PDF documents and images to generate intelligent summaries using AI. Built with SwiftUI and SwiftData for a native macOS experience.
 
+## Demo
+
+![Demo](PDFSum.gif)
+
 ## Features
 
 ### 🤖 AI-Powered Summarization
